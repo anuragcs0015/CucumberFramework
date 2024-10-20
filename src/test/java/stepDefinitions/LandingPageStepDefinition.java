@@ -35,6 +35,7 @@ public void user_is_on_green_cart_landing_page() {
 		System.out.println("From Demo1");
 		System.out.println("From Demo2");
 		System.out.println("From Demo3");
+		System.out.println("From Demo4");
 }
 
 	@When("^user searched with Shortname (.+) and extracted actual name of product$")
