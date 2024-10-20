@@ -37,6 +37,10 @@ public void  verify_user_has_ability_enter_promo()
 	
 	Assert.assertTrue(checkoutPage.VerifyPromoBtn());
 	Assert.assertTrue(checkoutPage.VerifyPlaceOrder());
+	System.out.println("From Demo8");
+	System.out.println("From Demo9");
+	System.out.println("From Demo10");
+	System.out.println("From Demo11");
 	
 }
 
