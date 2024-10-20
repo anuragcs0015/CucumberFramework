@@ -42,6 +42,9 @@ public void  verify_user_has_ability_enter_promo()
 	System.out.println("From Demo10");
 	System.out.println("From Demo11");
 	
+	System.out.println("From Demo12");
+	System.out.println("From Demo13");
+	
 }
 
 @Then("^User proceeds to Checkout and validate the (.+) items in checkout page$")
